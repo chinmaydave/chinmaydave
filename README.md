@@ -6,7 +6,7 @@ My name is Chinmay and I am a Computer Science student!
 public class Chinmay
 {
   private int age = 20;
-  public String[] traits = new String[] { "dumb", "short", "nerd" };
+  public String[] traits = new String[] { "funny", "short", "nerd" };
   public String[] hobbies = new String[] { "Coding!", "Basketball", "Chess", "Pickleball", "Sleeping" };
 }
 ```
