@@ -1,6 +1,6 @@
 📮 About Me
 
-My name is Chinmay and I am a Computer Science student!
+My name is Chinmay and I am a Master's Computer Science student at Georgia Tech!
 
 
 📋 Here are the tools I use:
